@@ -1,0 +1,4 @@
+repository "Where-Can-I-Idle@wechat_os_qy0wq7yox2lqoipukt-pbehai@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
